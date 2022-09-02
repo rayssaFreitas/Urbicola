@@ -1,11 +1,12 @@
+import React from "react";
 import { Instagram, LinkedIn } from "@mui/icons-material";
 import { Link } from "@mui/material";
-import React from "react";
+import "./initial.css";
 
 export function Initial() {
   return (
-    <>
-      <header>
+    <div className="initial-body">
+      <header className="initial-header">
         <Link href="i" underline="none">
           Inicio
         </Link>
@@ -23,11 +24,7 @@ export function Initial() {
         </Link>
       </header>
       <main>
-        <img
-          className="logo"
-          alt=""
-          src=""
-        ></img>
+        <img className="logo" alt="Urbicola Arquitetura" src="../../assets/images/logo_text.png"></img>
 
         <section id="footer">
           <section className="footer-contact">
@@ -48,6 +45,6 @@ export function Initial() {
           }
         </section>
       </main>
-    </>
+    </div>
   );
 }
