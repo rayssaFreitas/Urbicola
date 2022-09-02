@@ -1,6 +1,6 @@
 import React from 'react';
 import { Initial } from './pages/initial/Initial';
-import "./app.css";
+import "./App.css";
 
 function App() {
   return (
