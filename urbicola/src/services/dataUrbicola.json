@@ -1,0 +1,79 @@
+{
+  "servicos": [
+    {
+      "id": 1,
+      "imagem": "projetoArquiteturaExecutivo.png",
+      "titulo": "Projeto de Arquitetura e Projeto Executivo",
+      "resumo": "Realizamos todo o levantamento necessário para a concepção da planta baixa ideal para o seu Projeto Arquitetônico!"
+    },
+    {
+      "id": 2,
+      "imagem": "projetoInteriores.png",
+      "titulo": "Projeto de Interiores",
+      "resumo": ""
+    },
+    {
+      "id": 3,
+      "imagem": "rrt.png",
+      "titulo": "RRT - Projeto Legal",
+      "resumo": ""
+    },
+    {
+      "id": 4,
+      "imagem": "projetoRegularizacao.png",
+      "titulo": "Projeto de Regularização",
+      "resumo": ""
+    },
+    {
+      "id": 5,
+      "imagem": "gerenciamentoReformaConstrução.png",
+      "titulo": "Gerenciamento de Reforma e Construção",
+      "resumo": "Realizamos um planejamento orçamentário detalhado com todos os elementos necessários para iniciar uma obra. Adequando o melhor custo-benefício, mostrando a previsão de custos gerais e prazos de ..."
+    },
+    {
+      "id": 6,
+      "imagem": "acompanhamentoReformaConstrução.png",
+      "titulo": "Acompanhamento de Reforma e Construção",
+      "resumo": "Acompanhamento e gestão de obra para a integral execução do projeto. Visitas feitas na obra semanalmente para fiscalizar a qualidade da obra e a adequação com o projeto executivo. Direcionamos ..."
+    }
+  ],
+
+  "fundadores": [
+    {
+      "id": 1,
+      "imagem": "alexandra.JPEG",
+      "nome": "Alexandra Ferri",
+      "profissao": "Arquiteta, Urbanista e Designer",
+      "resumo": "Trás para o Urbí a singularidade de criar projetos que expressam originalidade e inovação. Por seu envolvimento junto a trabalhos sociais, tem forte relação com a Arquitetura sustentável e acessível. Busca assim, a escolha dos melhores materiais que expressam afeto e aconchego nos projetos. Além disso, seus interesses estão sempre ligados a arte, musica e cultura, vertentes importantes dentro da arquitetura.",
+      "social": {
+        "email": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+        "id": 2,
+        "imagem": "matheus.JPEG",
+        "nome": "Matheus Sant'ana",
+        "profissao": "Arquiteta, Urbanista e Adm",
+        "resumo": "Trás para o Urbí o equilíbrio entre a criatividade e o olhar técnico, encontrando soluções práticas e funcionais para os projetos. Afim de garantir a agilidade e fluidez da equipe, encontra as melhores soluções para organização e gestão de todas a etapas do projeto arquitetônico.",
+        "social": {
+          "email": "",
+          "instagram": "",
+          "linkedin": ""
+        }
+      },
+      {
+        "id": 3,
+        "imagem": "barbara.JPEG",
+        "nome": "Barbara Buffone",
+        "profissao": "Arquiteta, Urbanista e Designer",
+        "resumo": "Trás para o Urbí uma das coisas que mais gostou desde a infância: encontrar soluções criativas. Principalmente em ambientes desafiadores e pequenos, enxergar além das soluções tradicionais é essencial para alcançar um bom projeto. Também, por seu contato com a fotografia ao longo da formação, busca sempre conceber um projeto arquitetônico ordeiro, limpo e belo.",
+        "social": {
+          "email": "",
+          "instagram": "",
+          "linkedin": ""
+        }
+      }
+  ]
+}

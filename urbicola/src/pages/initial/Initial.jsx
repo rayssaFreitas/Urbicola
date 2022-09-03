@@ -8,19 +8,19 @@ export function Initial() {
   return (
     <div className="initial-body">
       <header className="initial-header">
-        <Link href="i" underline="none">
+        <Link href="/" underline="none">
           Inicio
         </Link>
-        <Link href="i" underline="none">
+        <Link href="/servicos" underline="none">
           Serviços
         </Link>
-        <Link href="i" underline="none">
+        <Link href="/projetos" underline="none">
           Projetos
         </Link>
-        <Link href="i" underline="none">
+        <Link href="/sobre_nos" underline="none">
           Sobre Nós
         </Link>
-        <Link href="i" underline="none">
+        <Link href="contato" underline="none">
           Contato
         </Link>
       </header>
